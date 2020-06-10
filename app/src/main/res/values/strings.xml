@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">mppa</string>
+    <string name="txt_bienvenida">Bienvenido</string>
+    <string name="btn_entrar">Entrar</string>
 </resources>
